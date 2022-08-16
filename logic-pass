@@ -1,0 +1,10 @@
+#Q1
+#remove a character from a string in Python:string.replace(old character, new character, count)
+
+s = "flexible!"
+s2 = string.replace("b","")
+
+print(s2)
+
+
+
